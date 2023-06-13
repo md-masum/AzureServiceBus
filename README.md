@@ -28,9 +28,9 @@
 	```
 
 ## Retrieve the connection string for the Service Bus Namespace
-1. Open the Azure portal and navigate to the az204-svcbus-rg resource group.
+1. Open the Azure portal and navigate to the created resource group.
 
-2. Select the az204svcbus resource you created.
+2. Select the resource you created.
 
 3. Select Shared access policies in the Settings section, then select the RootManageSharedAccessKey policy.
 
